@@ -5,8 +5,8 @@ This project utilizes the Credit Risk Dataset sourced from Kaggle, specifically 
 ## Data Preprocessing
 ## 1. Data Upload and Initial Checks:
 
-Data is uploaded and loaded into a DataFrame.
-Checked for missing values and duplicates; removed them accordingly.
+- Data is uploaded and loaded into a DataFrame.
+- Checked for missing values and duplicates; removed them accordingly.
 ## 2. Filtering and Cleaning:
 
 Filtered out rows where person_age - 15 is less than or equal to person_emp_length.
